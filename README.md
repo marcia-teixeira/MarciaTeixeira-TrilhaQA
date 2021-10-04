@@ -13,7 +13,7 @@
     + Adicionar o produto ao carrinho e validar nome e valor (devem ser iguais ao da tela do produto);
     + Importante o uso de Page Objects, Reports, Hooks, Print de evidência de sucesso e Cucumber.
     
-+ Etapa API
++ Etapa API:
 
   + Candidado deverá acessar o Swagger http://fakerestapi.azurewebsites.net/ e automatizar o endpoint /api/v1/Books.
 
