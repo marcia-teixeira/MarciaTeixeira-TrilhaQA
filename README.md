@@ -1,5 +1,5 @@
 ![AmBev Tech](https://github.com/marcia-teixeira/MarciaTeixeira-TrilhaQA/blob/main/Ambev%20Tech_cinza%20(2).png)
-# Trilha QA - Marcia Teixeira
+# Trilha QA - Márcia Teixeira
 ## Repositório com meus desafios e estudos realizados no treinamento de QA.
 
 ### 1º Desafio: Automatizar o Site da Store Totvs - https://totvs.store.
