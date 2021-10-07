@@ -18,5 +18,10 @@
   + Candidado deverá acessar o Swagger http://fakerestapi.azurewebsites.net/ e automatizar o endpoint /api/v1/Books.
 
   + Deverá criar um book (POST) Title: ”Automatizando uma API", Description: ”teste@store.com.br", PageCount : 10 Excerpt: ”Resumo do teste” PublishDate: “2020-09-   10T13:00:00.549505+00:00" id: "50"
+
+### Ferramentas utilizadas na resolução do desafio:
+
++ Cypress;
++ Métodos e boas práticas: BDD e Page Objects.
       
 
